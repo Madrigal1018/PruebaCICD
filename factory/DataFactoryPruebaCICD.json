@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryPruebaCICD",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fa506c7-8f36-41ae-858d-2fb42bb2ecd3",
+		"tenantId": "e3516e00-58a7-467a-9870-fb8af8ef8e0e"
+	}
+}
